@@ -120,3 +120,39 @@ h1 {
   height: 180px;
   position: absolute;
 }
+
+
+.flex-container4 {
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 182px;
+  width: 77%;
+
+  right: 552px;
+  height: 250px;
+  position: absolute;
+}
+
+.flex-container4 > div {
+
+  color: white;
+  margin: 1px;
+  text-align: center;
+  line-height: normal;
+  font-size: 20px;
+  background-image: url(./images/googleandela.jpg);
+  background-repeat: no-repeat;
+  box-shadow: #c4c4c4;
+
+}
+.googleinfo{
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 420px;
+  right: 552px;
+  width: 77%;
+  height: 180px;
+  position: absolute;
+}
