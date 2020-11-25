@@ -29,7 +29,8 @@ body,html{
 
 }
 #video>img{
-    flex: 100%;
+    position: relative;
+    right: 0px;
 }
 #p{
     position: inherit;
