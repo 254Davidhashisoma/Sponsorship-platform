@@ -156,3 +156,74 @@ h1 {
   height: 180px;
   position: absolute;
 }
+
+
+.flex-container5 {
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 182px;
+  width: 100%;
+  left: 0px;
+  background-image: url(./images/daraja.jpeg);
+  right: 552px;
+  height: 250px;
+  position: absolute;
+}
+
+.flex-container5 > div {
+
+  color: white;
+  margin: 1px;
+  text-align: center;
+  line-height: normal;
+  font-size: 20px;
+  background-repeat: no-repeat;
+  box-shadow: #c4c4c4;
+
+}
+.darajainfo{
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 420px;
+  left: 0px;
+  width: 100%;
+  height: 180px;
+  position: absolute;
+}
+
+.flex-container6 {
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 182px;
+  width: 100%;
+  left: 550px;
+  background-image: url(./images/flei.jpg);
+  right: 552px;
+  height: 250px;
+  position: absolute;
+}
+
+.flex-container6 > div {
+
+  color: white;
+  margin: 1px;
+  text-align: center;
+  line-height: normal;
+  font-size: 20px;
+  background-repeat: no-repeat;
+  box-shadow: #c4c4c4;
+
+}
+.fleinfo{
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 420px;
+  left: 550px;
+  width: 100%;
+  height: 180px;
+  position: absolute;
+}
