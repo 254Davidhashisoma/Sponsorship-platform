@@ -1,3 +1,20 @@
-.grad{
-    float: right;
+.footer {
+    background-color: grey;
+    
+}
+.links{
+    left: 0%; 
+    position: absolute;
+    top: 0%;
+}
+
+.address{
+    left: 20%; 
+    position: absolute;
+    top: 0%;
+}
+.socials{
+    left: 40%; 
+    position: absolute;
+    top: -1%;
 }
