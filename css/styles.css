@@ -14,11 +14,14 @@ body,html{
     position: relative;
 
 }
-#text>h4{
+#text{
     position: relative;
     text-align: center;
     
 
+}
+#h3{
+    font-size: 300;
 }
 #video {
     position: relative;
@@ -27,4 +30,7 @@ body,html{
 }
 #video>img{
     flex: 100%;
+}
+#p{
+    position: inherit;
 }
