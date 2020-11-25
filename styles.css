@@ -80,4 +80,18 @@ showcase h1{
 }
 #courses{
     display: flex; 
+    text-align: center;
+}
+#course img{
+      width: 250px;
+      border-radius: 10px;
+      border: 2px solid #000;
+}
+.apply{
+    margin-top:4%;
+    background-color: blue;
+    padding: 0.7rem 1rem;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
 }
