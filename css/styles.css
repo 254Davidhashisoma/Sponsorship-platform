@@ -26,5 +26,5 @@ body,html{
 
 }
 #video>img{
-    float: right;
+    flex: 100%;
 }
