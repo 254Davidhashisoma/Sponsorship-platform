@@ -1,3 +1,8 @@
+body {
+  border: 2px solid powderblue;
+  margin: 2px;
+}
+
 div.scholarships > p{
   font-size: 12px;
   font-style: italic;
@@ -11,6 +16,7 @@ h1 {
   background-color: #c4c4c4;
   top: 0px;
   height: 110px;
+  left: 25px;
   margin-top: auto;
 
   text-shadow: 2px 2px 0px rgba(0,0,0,0.2), 4px 4px 8px rgba(0,0,0,0.2); 
@@ -200,7 +206,7 @@ h1 {
   top: 182px;
   width: 100%;
   left: 550px;
-  background-image: url(./images/flei.jpg);
+  background-image: url(./images/poster_board_oln_students.jpg);
   right: 552px;
   height: 250px;
   position: absolute;
