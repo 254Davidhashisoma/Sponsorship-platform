@@ -1,3 +1,4 @@
+
 body,html{
     background-color: #c4c4c4;
     height: 100%;
@@ -38,4 +39,23 @@ body,html{
     clear: right;
 }
 
+.footer {
+    background-color: grey;
+    
+}
+.links{
+    left:35%; 
+    position: absolute;
+    top: 0%;
+}
 
+.address{
+    left: 50%; 
+    position: absolute;
+    top: 0%;
+}
+.socials{
+    left: 70%; 
+    position: absolute;
+    top: -1%;
+}
