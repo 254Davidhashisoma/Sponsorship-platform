@@ -3,18 +3,18 @@
     
 }
 .links{
-    left: 0%; 
+    left:35%; 
     position: absolute;
     top: 0%;
 }
 
 .address{
-    left: 20%; 
+    left: 50%; 
     position: absolute;
     top: 0%;
 }
 .socials{
-    left: 40%; 
+    left: 70%; 
     position: absolute;
     top: -1%;
 }
