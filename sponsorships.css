@@ -1,6 +1,8 @@
 body {
   border: 2px solid powderblue;
   margin: 2px;
+  left: 1px;
+  right: 1px;
 }
 
 div.scholarships > p{
