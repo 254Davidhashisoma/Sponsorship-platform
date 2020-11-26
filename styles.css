@@ -2,11 +2,15 @@ body{
     font-family: sans-serif;
     margin: 0;
     padding: 0;
-
+    background-color: rgb(68, 75, 168);
+    background-image: url(./img-projectb/isto.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
 }
 .wrapper{
-    background-image: url(./img-projectb/download.jpeg);
-    no-repeat center center;
+   
+    
     min-height: 30rem;
 
 }
