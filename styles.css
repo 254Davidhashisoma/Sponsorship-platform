@@ -8,6 +8,11 @@ div.scholarships > p{
   font-style: italic;
   text-align: center;
 }
+.logo{
+  width: 30x;
+  height: 117px;
+  background-color: #c4c4c4;
+}
 h1 {
   font: 400 50px/1.2 'Leckerli One', Helvetica, sans-serif;
   color: #000;
@@ -15,9 +20,11 @@ h1 {
   text-align: center;
   background-color: #c4c4c4;
   top: 0px;
-  height: 110px;
-  left: 25px;
-  margin-top: auto;
+  position:absolute;
+  height: 118px;
+  left: 350px;
+  right: 0px;
+  margin-top: 0px;
 
   text-shadow: 2px 2px 0px rgba(0,0,0,0.2), 4px 4px 8px rgba(0,0,0,0.2); 
 }
@@ -26,7 +33,7 @@ h1 {
   align-items: stretch;
   background-color: #c4c4c4;
   top: 120px;
-  width: 28%;
+  width: 28.2%;
 
   left: 0;
   height: 200px;
@@ -50,7 +57,7 @@ h1 {
   background-color: #c4c4c4;
   top: 300px;
   left: 0.5px;
-  width: 28%;
+  width: 28.2%;
   height: 180px;
   position: absolute;
 }
