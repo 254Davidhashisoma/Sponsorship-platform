@@ -1,0 +1,244 @@
+body {
+  border: 2px solid powderblue;
+  margin: 2px;
+  left: 1px;
+  right: 1px;
+}
+
+div.scholarships > p{
+  font-size: 12px;
+  font-style: italic;
+  text-align: center;
+}
+.logo{
+  width: 30x;
+  height: 117px;
+  background-color: #c4c4c4;
+}
+h1 {
+  font: 400 50px/1.2 'Leckerli One', Helvetica, sans-serif;
+  color: #000;
+  font-style: italic;
+  text-align: center;
+  background-color: #c4c4c4;
+  top: 0px;
+  position:absolute;
+  height: 118px;
+  left: 350px;
+  right: 0px;
+  margin-top: 0px;
+
+  text-shadow: 2px 2px 0px rgba(0,0,0,0.2), 4px 4px 8px rgba(0,0,0,0.2); 
+}
+.flex-container1 {
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 120px;
+  width: 28.2%;
+
+  left: 0;
+  height: 200px;
+  position: absolute;
+}
+.flex-container1 > div {
+  background-color: DodgerBlue;
+  color: white;
+  margin: 1px;
+  text-align: center;
+  line-height: normal;
+  font-size: 20px;
+  background-image: url(./images/moringaaceess.jpg);
+  background-repeat: no-repeat;
+  box-shadow: #c4c4c4;
+
+}
+.accessinfo{
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 300px;
+  left: 0.5px;
+  width: 28.2%;
+  height: 180px;
+  position: absolute;
+}
+
+
+.flex-container2 {
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  bottom: 170px;
+  width: 550px;
+
+  left: 428px;
+  height: 190px;
+  position: absolute;
+}
+
+.flex-container2 > div {
+  background-color: DodgerBlue;
+  color: white;
+  margin: 1px;
+  text-align: center;
+  line-height: normal;
+  font-size: 20px;
+  background-image: url(./images/MCF-ScholarsProgram-Logo-RGB.png);
+  background-repeat: no-repeat;
+  box-shadow: #c4c4c4;
+
+}
+.mastercardinfo{
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 0px;
+  left: 428px;
+  width: 550px;
+  height: 180px;
+  position: absolute;
+}
+
+
+.flex-container3 {
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  bottom: 170px;
+  width: 550px;
+
+  left: 550px;
+  height: 190px;
+  position: absolute;
+}
+
+.flex-container3 > div {
+
+  color: white;
+  margin: 1px;
+  text-align: center;
+  line-height: normal;
+  font-size: 20px;
+  background-image: url(./images/download.png);
+  background-repeat: no-repeat;
+  box-shadow: #c4c4c4;
+
+}
+.kcbinfo{
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 0px;
+  left: 555px;
+  width: 550px;
+  height: 180px;
+  position: absolute;
+}
+
+
+.flex-container4 {
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 182px;
+  width: 77%;
+
+  right: 552px;
+  height: 250px;
+  position: absolute;
+}
+
+.flex-container4 > div {
+
+  color: white;
+  margin: 1px;
+  text-align: center;
+  line-height: normal;
+  font-size: 20px;
+  background-image: url(./images/googleandela.jpg);
+  background-repeat: no-repeat;
+  box-shadow: #c4c4c4;
+
+}
+.googleinfo{
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 420px;
+  right: 552px;
+  width: 77%;
+  height: 180px;
+  position: absolute;
+}
+
+
+.flex-container5 {
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 182px;
+  width: 100%;
+  left: 0px;
+  background-image: url(./images/daraja.jpeg);
+  right: 552px;
+  height: 250px;
+  position: absolute;
+}
+
+.flex-container5 > div {
+
+  color: white;
+  margin: 1px;
+  text-align: center;
+  line-height: normal;
+  font-size: 20px;
+  background-repeat: no-repeat;
+  box-shadow: #c4c4c4;
+
+}
+.darajainfo{
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 420px;
+  left: 0px;
+  width: 100%;
+  height: 180px;
+  position: absolute;
+}
+
+.flex-container6 {
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 182px;
+  width: 100%;
+  left: 550px;
+  background-image: url(./images/poster_board_oln_students.jpg);
+  right: 552px;
+  height: 250px;
+  position: absolute;
+}
+
+.flex-container6 > div {
+
+  color: white;
+  margin: 1px;
+  text-align: center;
+  line-height: normal;
+  font-size: 20px;
+  background-repeat: no-repeat;
+  box-shadow: #c4c4c4;
+
+}
+.fleinfo{
+  display: flex;
+  align-items: stretch;
+  background-color: #c4c4c4;
+  top: 420px;
+  left: 550px;
+  width: 100%;
+  height: 180px;
+  position: absolute;
+}
