@@ -1,0 +1,40 @@
+body,html{
+    background-color: #c4c4c4;
+    height: 100%;
+}
+.bg{
+    background-image: url(https://www.kca.ac.ke/wp-content/uploads/2020/06/welcome-to-KCA-University.png);
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.sponsored{
+    position: relative;
+
+}
+#text{
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    
+
+}
+#head{
+    font-size: 64px;
+    color: blue;
+}
+.video{
+    position: absolute;
+    width: 40%;
+}
+#q{
+    position: relative;
+    width: 40%;
+    float: right;
+}
+#p{
+    position: absolute;
+    font-style: oblique;
+}
